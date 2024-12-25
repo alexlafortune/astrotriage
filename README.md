@@ -5,7 +5,7 @@ Use this script to triage and get information about astrophotography subs to mak
 
 ## Filter images by star roundness
 Enter a folder path to read all .NEF files in that folder, determine the average star roundness, and display a graph showing how many subs will be rejected if a certain threshold is used:
-https://github.com/alexlafortune/astrotriage/blob/main/screenshot.png
+![screenshot](https://github.com/alexlafortune/astrotriage/blob/main/screenshot.png?raw=true)
 Choose a threshold that avoids rejecting too many subs or allows too many bad subs.
 Subs below the chosen threshold will be safely deleted (sent to Recycle Bin).
 
